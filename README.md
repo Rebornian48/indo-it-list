@@ -1,5 +1,5 @@
-# List of Information Technology That Refer to Indonesian
-## Indonesian Area
+# List of Information Technology That Refer to Indonesia
+## Area
 
 1. Java : Programming Language (<https://www.java.com/>)
 2. Project Lombok : Java Library (<https://projectlombok.org/>)
